@@ -1,4 +1,4 @@
-Web scrapping scripts for:
+Webscrapping scripts for:
 - Reddit
 - Twitter
 - Telegram
